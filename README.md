@@ -4,7 +4,7 @@
 
 With a background in Finance and Investment, I am passionate about **Data Analytics** and exploring how data can be transformed into meaningful insights for business and financial decision-making.
 
-I am currently building my data analytics skills and applying data-driven approaches to solve business problems, especially in the finance and e-commerce domains.
+I am currently building my data analytics skills and applying data-driven approaches to solve business problems, especially in the finance and fintech domains.
 
 ## Skills & Tools
 
