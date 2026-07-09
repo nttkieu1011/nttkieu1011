@@ -1,16 +1,43 @@
-## Hi there 👋
+# Kieu Nguyen | Finance & Data Analytics Enthusiast
 
-<!--
-**nttkieu1011/nttkieu1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+With a background in Finance and Investment, I am passionate about **Data Analytics** and exploring how data can be transformed into meaningful insights for business and financial decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently building my data analytics skills and applying data-driven approaches to solve business problems, especially in the finance and e-commerce domains.
+
+## Skills & Tools
+
+**Data Analytics**
+- SQL (Google BigQuery, PostgreSQL)
+- Excel
+- Data Cleaning & Data Exploration
+
+**Currently Learning**
+- Power BI (Power Query, Data Modeling, DAX,...)
+- Python (Pandas)
+
+## Projects
+
+### 📊 SQL_E-commerce Analysis
+Analyzed e-commerce data using Google BigQuery SQL to explore:
+- Customer purchasing behavior
+- Revenue performance
+- Traffic source analysis
+- Product performance
+
+🔗 [View Project](your-project-link)
+
+## Learning Journey
+
+I am continuously improving my skills in:
+- Data Analysis
+- Business Intelligence
+- Financial Analytics
+
+I will keep updating this profile with new projects and insights as I continue learning.
+
+## Contact
+
+- GitHub: https://github.com/nttkieu1011
+
