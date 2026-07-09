@@ -8,25 +8,16 @@ I am currently building my data analytics skills and applying data-driven approa
 
 ## Skills & Tools
 
-**Data Analytics**
 - SQL (Google BigQuery, PostgreSQL)
-- Excel
-- Data Cleaning & Data Exploration
-
-**Currently Learning**
-- Power BI (Power Query, Data Modeling, DAX,...)
-- Python (Pandas)
+- Excel (Data Analysis, Reporting)
+- Power BI (Power Query,Data Modeling,DAX, Dashboard - Learning)
+- Python (Pandas - Learning)
 
 ## Projects
 
 ### 📊 SQL_E-commerce Analysis
-Analyzed e-commerce data using Google BigQuery SQL to explore:
-- Customer purchasing behavior
-- Revenue performance
-- Traffic source analysis
-- Product performance
 
-🔗 [View Project](your-project-link)
+🔗 [View Project](https://github.com/nttkieu1011/SQL_Ecommerce-Analysis)
 
 ## Learning Journey
 
@@ -39,5 +30,6 @@ I will keep updating this profile with new projects and insights as I continue l
 
 ## Contact
 
+- Email: nkieu10112004@gmail.com
 - GitHub: https://github.com/nttkieu1011
 
