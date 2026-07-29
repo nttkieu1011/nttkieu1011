@@ -1,4 +1,4 @@
-# Kieu Nguyen | Finance & Data Analytics Enthusiast
+# Kieu Nguyen | Finance & Data Analytics
 
 ## About Me
 
@@ -9,7 +9,7 @@ I am currently building my data analytics skills and applying data-driven approa
 ## Skills & Tools
 
 - SQL (Google BigQuery, PostgreSQL)
-- Excel (Data Analysis, Reporting)
+- Excel (Power Query, Dashboard)
 - Power BI (Power Query,Data Modeling,DAX, Dashboard - Learning)
 - Python (Pandas - Learning)
 
